@@ -1,0 +1,2 @@
+ifconfig eth0 30.30.30.2
+route add default gw 30.30.30.1
